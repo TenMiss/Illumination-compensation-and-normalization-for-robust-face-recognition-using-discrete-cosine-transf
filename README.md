@@ -1,0 +1,1 @@
+# Illumination-compensation-and-normalization-for-robust-face-recognition-using-discrete-cosine-transf
